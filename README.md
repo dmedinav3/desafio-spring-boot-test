@@ -1,4 +1,4 @@
-# Desafío Técnico: Gestión de Tareas con Spring Boot y Java
+# Desafío Técnico: Gestión de Tareas con Spring Boot y Java 17
 
 La empresa NUEVO SPA desea desarrollar una plataforma de gestión de tareas para mejorar la productividad de sus equipos. El sistema debe permitir a los usuarios crear, actualizar, eliminar y listar tareas. Además, se requiere autenticación mediante JWT y documentación de la API utilizando OpenAPI y Swagger.
 
